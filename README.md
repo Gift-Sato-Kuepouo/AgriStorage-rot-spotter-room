@@ -16,7 +16,7 @@ Fresh tomatoes are the most consumed ingredient in nearly every Cameroonian dish
 - FIFO crate queue for stock rotation
 - Modular, low-power design for rural conservatories
 
-## Hardware Components (Suggested)
+## Hardware Components
 - Microcontroller/Edge: Raspberry Pi 4/CM4, Jetson Nano Orin (NVIDIA), or ESP32 + SBC (hybrid)
 - Solar tracking: 2x SG90/MG996R or linear actuators, LDRs (4-quadrant) or light sensor array, MPPT charge controller
 - Sensors: BME280/DHT22 (temp/RH), light (TSL2591/BH1750), optional gas (MQ series avoided or calibrated)
