@@ -23,7 +23,7 @@ Fresh tomatoes are the most consumed ingredient in nearly every Cameroonian dish
 - Display: Industrial HDMI/LCD (UL-listed solutions recommended), NVIDIA Jetson-compatible touch displays
 - Actuators: DC fans, small heater/exhaust, servo motors for panel
 
-## PCB Design
+## PCB Design of AgriStorage Controller
 ![AgriStorage PCB design](Agristorage.png)
 
 ## Solar Tracking Logic
